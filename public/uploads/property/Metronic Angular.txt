@@ -1,0 +1,26 @@
+Metronic Angular
+
+I want to be able to to authenticate against credentials in 
+mysql database securely(https://academind.com/learn/react/connect-to-database/).
+
+So i need to setup a backend API and connect with metronic
+(https://keenthemes.com/metronic/?page=docs&section=angular-mock-backend)
+
+To show that in works just show the data of the authenticated user in dashboard.
+
+Table users:
+
+username: user
+password: resu
+data: user-data
+
+username: user2
+password: resu2
+data: user2-data
+
+I also need to upload and download files on the server. I dont see this in the angular demo.
+
+It would help if you create an example in My-page demo page. 
+A field for upload file and field to download file. 
+
+

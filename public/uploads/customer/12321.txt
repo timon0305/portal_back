@@ -1,0 +1,219 @@
+
+
+
+customer:
+
+Dashboard, Basic Information, Properties, Legal = 3 pages
+
+basic information is some fields from customer table  (what is some fields)
+properties is the properties that belong to customer in tabs .
+legal is fields from customer_legal table
+
+
+Manager:
+
+Dashboard, Customers, Properties = 2 pages
+
+with the tables inside to create and edit 
+
+Admin
+
+Dashboard, Customers, Properties, Users = 3 pages  
+
+
+
+you will not display all fields, i will send you the afternoon which ones not to display
+
+Customer_legal_info ;; can you explain this?
+
+yes.
+80% of customers they dont have legal information 
+so i put in the customer table the information that is common to all clients
+
+and i created the legal_info table with the fields that only 20% have(extra fields)
+
+the key of the table is the same with the primary key of customer table
+
+AND
+
+you say  that key of the customer_legal_info is the same with primary key of customer 
+
+it is reference of the customer table primary key
+
+it is foreign key
+
+So f the logged in customer has id=5
+
+in the basic info page you display the record of the customer table with id =5 right?
+
+
+in the legal info page you display the record of the customer_legal table with id=5.
+
+in the costomer property info page you display the record of the customer_legal table with id=5.
+
+right?
+
+no
+
+in the properties page you display from property table
+property information
+
+you will find which one from the junction table
+
+from the junction table you can see the id's of the properties that belong to the logged in customer.
+
+and if it is id=2 and id=6
+
+you display the property table info with id=2 in the first tab
+and the property info with id=6 to the second
+
+If customer(id=2) has customer_property id(1,2,3,4,5,6,7,8,9,10), I will display 10 tabs
+
+yes
+
+on junction table this would have 10 records
+
+junction_id = 1     c_id =2  p_id = 1
+junction_id = 2     c_id =2  p_id = 2
+...
+
+this means customer id=2  owns these two properties
+
+if he owns 10 the junction table would have 10 records  OKEY.
+
+
+
+
+
+
+I understood..
+SO how much can you pay to me for this?
+Okay I will work for a long time.
+
+But I want to know your budget for this project. 
+
+We agreed on this basic functionality for 200 euro until sunday
+and then i tell you the rest(contct pages and notification) and we agree on how much and timeframe
+But this requiement is different with yesterday requirement.
+So I want high budget.
+Honestly I can reveice salary for site like this site.
+
+But I worked with you from beginning so I don't want salary. 
+So I want you suggest high budget.
+
+wait
+what is the difference from yesterday???
+i dont understand
+right. because we didn't discuss in a more detail like today.
+But we discussed in a more detail so I can understand this.
+
+
+So can't you suggest high budget for me?
+
+I dont have much money right now, tell me what you didn't expect to see if i can make it for you
+if i had more time i could make you another deal, i won;t be able to pay more now.
+200Euro is very low
+if you get it to point still there is a lot more to do in this website
+
+its is only the basic functionality
+the theme i provided and you got 120 until before
+
+so it is 320 to this point and still it is not ready
+it is only functionality, no style, nothing
+and it still needs more functionality.
+
+Whenever this is 320eur, this is low.
+I don't want to debate with budget.
+
+me neither buddy. 
+the problem is i cant pay you more this week.
+So lets make another deal
+can you makethis part with 200 by displaying not all the fields and i do the rest
+and i will pay you 50 or 100 extra on the next part. the contact page and notification
+50 or a 100 more than the sum you want for the job
+so if you can do it with 100 i will pay 200 for the next part i mean.
+
+I don't know how I have to say to you now.
+So do you want to make this with 200euro?
+
+i dont want to waste your time.
+let me think. 
+When can we discuss again?
+
+the problem is i don't have more money tdhis week
+I can understand you, but I want you help me. 
+
+sorry, i lost you
+
+i was saying.
+my options now are either to deal with on doing less
+or try to do it myself since Sunday and hire you after that to continue
+and i have to quit the other things i am doing until Sunday
+I can start this project now. Next week can you pay extra ?
+
+next week i can pay more but i have to present this part Monday morning
+So can you provide db? I have to start now. and you can check my project now. I corrected that.
+
+i have sent you the db. Okey I will check
+
+
+Can you see this?yes
+yesterday i correct errors.and made alert.
+Hi
+yes i s
+So can I start to work your project now? hi
+i am here. can I start to work your project now?
+what can you do with 200 until Sunday?
+We can do what we discussed but I hope you give me a bonus after that.
+
+i will be specific
+
+i will need to work on the project all the next week after you deliver cause i need to add more pages
+i told you only these pages cause i didn't have enough money
+then after i finish this i can hire you again for contact page and customer notification
+how much would normaly get for this?
+This depends on you.I hope you pay to me if you want to help you.
+
+yesterday i was thinking 100 for notification and contact page
+i can pay you 200 for this.
+Okay 
+
+After tomorrow this time, we will discuss again. 
+
+ok. i need to know about this part for sure
+because no matter what i must deliver this part monday morning
+and not as you give me the project, i will need to add some things before i even show it
+like other icons and some pages
+
+so if you deliver this part Sunday night i will have to work all night to do these things
+
+I can do that part, i know well about your project so I will work on our project from start to end.
+Can you deliver for sure this part at Sunday night the latest? Sunday early would be a lot better okay.
+So you and I have to work on weekend unfortunately. 
+
+SO can we discconnect this session now?
+
+yes buddy, and sorry i cant pay more right now, and then next week?
+
+Monday 9 on march i will have finished all other stuff i want to put in and then i can hire you to finish 
+
+until then i won't have money
+What do you mean? you can't pay 200erou?
+
+i can only pay 200 this Sunday
+
+for the rest i can hire you again in a week
+only a week?
+
+yes, next Sunday-Monday
+
+Okay , After tomorrow afternoon,we will discuss again?
+for help or questions about the project you can ask whatever you want
+
+do deliver this part until Sunday i need to know for sure  yeah I can finish that until sunday.
+
+ok, i will pay you 200 on Sunday  okay
+Can we disconnect this session?
+
+yes byebye
+bb
